@@ -4,7 +4,9 @@
 A first-person shooter prototype set in a corrupted laboratory on Mars.
 
 ## 📺 Video Showcase
+[![Bean Slayer Showcase](https://img.youtube.com/vi/b5UKwujsIKY/hqdefault.jpg)](https://www.youtube.com/watch?v=b5UKwujsIKY)
 
+*Click the image above to view the gameplay.*
 
 ## 🕹️ Project Overview
 
